@@ -2,11 +2,14 @@
 
 A fun React application that generates random meme images and allows users to add their own text to the top and bottom of each meme. This app uses React hooks, such as `useState` and `useEffect`, to manage state and side effects, making it interactive and responsive.
 
+![Screenshot 2024-10-27 105023](https://github.com/user-attachments/assets/8fe8641b-826d-44e9-813e-3bdd541a1b7c)
+
 ## Features
 
 - Fetches meme images from the Imgflip API.
 - Allows users to enter custom text for the top and bottom of the meme.
 - Displays a random meme image with the entered text overlayed.
+
 
 ## Demo
 
